@@ -1,0 +1,1 @@
+Done according to [this design](<https://www.figma.com/file/TnaTTWuoAJOuROpZzf59ER/ToDo-List-(Copy)?node-id=0%3A1&t=n8tEGrJuSStXJW9f-0>) following [those instructions](https://efficient-sloth-d85.notion.site/Desafio-01-Praticando-os-conceitos-do-React-Native-f8f164e29df74cd987e1f9aebf142ffb)
